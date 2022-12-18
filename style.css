@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 250px 20px 20px 300px;
+    background-color: silver;
+}
+
+table{
+    /* background-color: black; */
+    border: 5px solid black;
+}
+td{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50px;
+    height: 10px;
+}
+tr{
+    text-align: center;
+    height: 35px;
+}
+td:hover{
+    background-color: blue;
+}
